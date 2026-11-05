@@ -11,14 +11,14 @@
         "nombre": "pepperoni",
         "precio": 27900,
         "fecha": "03-11-2026",
-        "descripcion": "Pizza con finas rodajas de pepperoni"
+        "descripcion": "Pizza de pepperoni"
     },
     {
         "imagen": "image/napo.png",
         "nombre": "napolitana ajo y albahaca",
         "precio": 26700,
         "fecha": "03-11-2026",
-        "descripcion": "Pizza napolitana con ajo y albahaca"
+        "descripcion": "Pizza napolitana con rodajas de tomate, ajo y albahaca picada"
     },
     {
         "imagen": "image/jamonymorron.png",
